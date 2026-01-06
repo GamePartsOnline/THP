@@ -1,0 +1,63 @@
+/* HEADER */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+img {
+  display: block;
+  margin: auto
+}
+
+form {
+  display: flex;
+  align-items: center;
+}
+
+/* bouton de connexion */
+.btn-connexion {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 9999px;
+  /* bords bien arrondis */
+  background-color: #4da3ff;
+  /* bleu clair */
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+  border: none;
+}
+
+.btn-connexion:hover {
+  background-color: #368cf0;
+  /* bleu un peu plus foncé au survol */
+}
+
+/* BOUTONS */
+.search-button {
+  padding: 8px 16px;
+  border-radius: 9999px;
+  border: none;
+  background-color: #4da3ff;
+  color: #ffffff;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.search-button:hover {
+  background-color: #368cf0;
+}
+
+/* FOOTER */
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: #e1e1e1;
+  color: #fff;
+  padding: 1rem;
+  z-index: 100;
+}
