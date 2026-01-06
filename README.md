@@ -1,57 +1,71 @@
-# THP
-The_hacking_project 
-## Auteur
+# THP  
+**The Hacking Project**
 
-- Nom : CHARTON Frédérique 
-- Rôle : Intégrateur / Développeur front-end
-- Contact : cfredeu@gmail.com
-- GitHub : https://github.com/GamePartsOnline
-- Portfolio : je dois le faire !!!! 
+## Author
 
-# Refonte de la page d'accueil Google
+- **Name:** CHARTON Frédérique  
+- **Role:** Front-end Developer / Integrator  
+- **Contact:** [cfredeu@gmail.com](mailto:cfredeu@gmail.com)  
+- **GitHub:** [https://github.com/GamePartsOnline](https://github.com/GamePartsOnline)  
+- **Portfolio:** Coming soon!  
 
-Ce projet est une refonte **statique** de la page d'accueil de Google en HTML et CSS, réalisée à des fins d'apprentissage de l'intégration web (maquette, positionnement, responsive, bonnes pratiques HTML/CSS).
-Et s'amuser avec le code. 
+---
 
-## Table des matières
+# Google Homepage Redesign
 
-- 01.Création de la page HTML. 
-- 02.Creation de la page CSS. 
-- 03.Logiciel utilisé : visual studio code avec plugin mais surtout un super atelier. (Merci lilian)
-- 04.
-- [Prérequis](#prérequis)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Fonctionnalités implémentées](#fonctionnalités-implémentées)
-- [Évolutions possibles](#évolutions-possibles)
-- [Auteur](#auteur)
+This project is a **static redesign** of Google’s homepage using **HTML and CSS**.  
+It was created as part of a learning exercise in web integration — focusing on layout, responsiveness, and good HTML/CSS practices.  
+And most importantly: having fun with code!
 
-## Creation de la page HTML 
+---
 
-- Copier coller du code fournit par lilian lors de l'atelier. 
-- Reproduction visuelle de la page d'accueil Google (logo, barre de recherche, boutons principaux, footer).
-- Respect au maximum de la mise en page originale (espacements, typographies, alignements).
-- Version purement front-end sans logique de recherche fonctionnelle. 
+## Table of Contents
 
-## Logiciel utilisés 
+- 01. Creating the HTML page  
+- 02. Creating the CSS page  
+- 03. Tools used: Visual Studio Code with plugins and an awesome workshop (thanks, Lilian!)  
+- 04.  
+- [Prerequisites](#prerequisites)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Implemented Features](#implemented-features)  
+- [Possible Improvements](#possible-improvements)  
+- [Author](#author)
 
-- Pratiquer la structuration HTML (header, main, footer, nav, etc.).
-- Travailler le positionnement en CSS (flexbox et/ou grid) et la gestion du responsive.
-- Approfondir la gestion de la typographie, des marges, des paddings et des couleurs.
+---
 
-## Technologies utilisées
+## Creating the HTML Page
 
-- HTML5 pour la structure de la page.
-- CSS3 pour la mise en forme et le layout (flexbox, grid, media queries).
-- (Optionnel) Google Fonts pour la police proche de celle utilisée par Google.
+- Copied and adapted the base code provided during the workshop by Lilian.  
+- Reproduced the visual design of Google’s homepage (logo, search bar, main buttons, footer).  
+- Preserved the original layout as closely as possible (spacing, typography, alignment).  
+- This version is purely front-end — no functional search logic.
 
-## Structure du projet
+---
+
+## Tools and Practice
+
+- Practiced HTML structuring (header, main, footer, nav, etc.).  
+- Worked on CSS layout and positioning (Flexbox and/or Grid), including responsive design.  
+- Improved understanding of typography, margins, paddings, and color management.
+
+---
+
+## Technologies Used
+
+- **HTML5** → for the page structure.  
+- **CSS3** → for styling, layout, and responsiveness (Flexbox, Grid, Media Queries).  
+- *(Optional)* **Google Fonts** → for typography close to Google’s official style.
+
+---
+
+## Project Structure
 
 ```text
 .
-├── index.html        # Page principale (refonte de Google)
+├── index.html             # Main page (Google redesign)
 ├── css/
-│   └── style.css     # Styles globaux du projet
+│   └── style.css          # Global project styles
 ├── img/
-│   └── google-logo.png  # Logo utilisé pour la maquette
-└── README.md         # Documentation du projet
+│   └── google-logo.png    # Logo used for the mock-up
+└── README.md              # Project documentation
